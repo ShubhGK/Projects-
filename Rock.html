@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.css">
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="./Rock.css">
+</head>
+
+<body>
+    <h1 class="heading">Stone-Paper-Scissor </h1>
+    <h1 class="heading">Game</h1>
+    <div class="RPS">
+    <button class="Rock" onclick="PlayGame('Rock')"><img src="./images/Rock1.png" alt=""></button>
+    <button class="Scissors" onclick="PlayGame('Scissor')"><img src="./images/Scisorrs.png" alt=""></button>
+    </div>
+    <button class="Paper" onclick="PlayGame('Paper')"><img src="./images/paper.png" alt=""></button>
+    <section class="ScoreBoard">
+        <h2>Score Board</h2>
+        <div id="id1">Player: <span id="Player">0</span></div>
+        <div id="id2">Computer: <span id="Computer">0</span></div>
+        <button class="Reset" onclick="Reset()">Reset</button>
+    </section>
+</body>
+<script src="./Rock.js"></script>
+</html>
