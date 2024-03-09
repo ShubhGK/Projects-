@@ -41,13 +41,19 @@ For our project, By using the concept of MVC architecture, we have Created 3 Dif
 
 
 Results:
-Add Book
- 
+## Add Book
+ ![1](https://github.com/ShubhGK/Student_Management_project/assets/99328894/91185c01-ddd0-4ee6-bb48-565557c6f3b5)
 
 
-Get Book
+
+## Get Book
+![2](https://github.com/ShubhGK/Student_Management_project/assets/99328894/eddf7b4b-1299-4ef5-8c24-013ba9a942e5)
+
  
-Update Book
+## Update Book
+![3](https://github.com/ShubhGK/Student_Management_project/assets/99328894/f2c77d37-3522-40af-84d8-d5ce5393a22c)
+
  
-Remove Book & Exit 
-a 
+## Remove Book & Exit 
+![4](https://github.com/ShubhGK/Student_Management_project/assets/99328894/37e569b5-3a5d-4254-975e-6042579ab704)
+ 
