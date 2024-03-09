@@ -1,7 +1,9 @@
 #                             LIBRARY MANAGEMENT SYSTEM USING JAVA
 ## INTRODUCTION
  A Library management system that maintains library records. It can improve efficiency by reducing the time spent on administrative tasks,
- Such as, 1) Add books 
+ Such as, 
+    
+    1) Add books 
  
     2) Search for books
     
